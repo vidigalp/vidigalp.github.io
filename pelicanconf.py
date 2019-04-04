@@ -41,13 +41,13 @@ EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
 
 TYPOGRIFY = True
 
-PLUGIN_PATHS = ['C:\\Users\\Pedro Vidigal\\Code\\pelican\\pelican-addon-clones\\pelican-plugins\\', ]
+PLUGIN_PATHS = ['/home/vidigalp/Code/pelican-addon-clones/pelican-plugins/', ]
 PLUGINS = ['i18n_subsites', ]
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
 }
 
-THEME = 'C:\\Users\\Pedro Vidigal\\Code\\pelican\\pelican-addon-clones\\pelican-themes\\pelican-bootstrap3'
+THEME = '/home/vidigalp/Code/pelican-addon-clones/pelican-themes/pelican-bootstrap3'
 STATIC_PATHS = ['img', 'static']
 FAVICON = 'img/favicon.ico'
 CUSTOM_CSS = 'static/custom.css'
