@@ -1,1 +1,0 @@
-# vidigalp.github.io
